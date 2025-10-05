@@ -15,13 +15,14 @@ Python, NumPy, Pandas, SciPy, Seaborn, Matplotlib, Jupyter Notebook
 ---
 
 ## 📁 Содержимое проекта
+```
 01_wine_analysis/
 ├── data/
 │ └── winequality.csv
 ├── wine_analysis.ipynb
 ├── report.pdf
 └── README.md
-
+```
 ---
 
 ## 📈 Основные результаты
